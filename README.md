@@ -67,3 +67,7 @@ Projeyi çalıştırmak için bilgisayarınızda [Python](https://www.python.org
   "user_type": "admin",
   "birim":1
    }
+
+   ** API'lar sorunsuz çalıştığı taktirde, önyüzü çalıştırabilirsiniz. Register olduğunuz kullanıcı adı ve şifre ile sisteme giriş yapabilirsiniz.
+
+   ** https://github.com/berkantavs/pm-case
